@@ -1,0 +1,48 @@
+#loginForm{
+
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: fit-content;
+    border-radius: 20px ;
+    background-color: aquamarine;
+    
+}
+
+.email{
+
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.password{
+
+    display: flex;
+    flex-direction: column;
+    padding: 10px ;
+}
+
+.submitButton{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+button{
+
+    
+    padding: 5px;
+    margin: 10px ;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 200px;
+
+}
+
+/* .signup{
+
+    display: flex;
+    flex-direction: row;
+} */
